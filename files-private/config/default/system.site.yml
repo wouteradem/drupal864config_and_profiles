@@ -1,0 +1,14 @@
+uuid: 9917191c-7ab2-4462-8718-fbc5d2d8cc47
+name: 'Base from config/default'
+mail: wouter.adem@acquia.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

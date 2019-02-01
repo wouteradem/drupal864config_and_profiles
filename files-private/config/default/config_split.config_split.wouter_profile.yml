@@ -1,0 +1,15 @@
+uuid: 2ad8fd33-3399-46fc-b0f3-9fa189e59bd3
+langcode: en
+status: true
+dependencies: {  }
+id: wouter_profile
+label: 'Wouter Profile'
+description: ''
+folder: config/wouter
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

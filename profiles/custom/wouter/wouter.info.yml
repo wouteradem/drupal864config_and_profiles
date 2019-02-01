@@ -1,0 +1,11 @@
+name: wouter
+type: profile
+description: 'Build a custom site based on Wouter profile without pre-configured functionality.'
+core: 8.x
+install:
+  - node
+  - block
+  - dblog
+  - page_cache
+  - dynamic_page_cache
+  - config
